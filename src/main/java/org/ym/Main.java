@@ -5,8 +5,6 @@ package org.ym;
 public class Main {
     public static void main(String[] args) {
         System.out.println("hello world");
-        // v5版本基于v3版本
-        // v4版本基于v3版本
-        System.out.println("hello world master v5");
+        System.out.println("hello world brach v1");
     }
 }
